@@ -51,6 +51,11 @@ nav{
 nav .items{
     display: flex;
     gap: 20px;
+}
+
+nav .items select option{
+    background-color: black;
+    color: white;
 
 }
 
